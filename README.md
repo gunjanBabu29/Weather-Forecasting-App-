@@ -35,4 +35,4 @@ To get the Timezone and time i have used the pytz module and timezonefinder modu
 ![Output](https://user-images.githubusercontent.com/87264935/163683683-1b0c70c1-0c52-46d2-b7a9-962626c15238.png)
 
 ### Author:
-**Prathamesh Dhande**
+**Gunjan Kumar**
